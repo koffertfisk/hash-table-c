@@ -1,6 +1,14 @@
 # Prerequisites
 *.d
 
+# Object directory
+obj
+
+# Test coverage output
+hash_table-lcov
+hash_table.info
+hash_table_test
+
 # Object files
 *.o
 *.ko
