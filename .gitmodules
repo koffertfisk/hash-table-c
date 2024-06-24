@@ -1,0 +1,3 @@
+[submodule "linked_list"]
+	path = linked_list
+	url = https://github.com/koffertfisk/linked-list-c
